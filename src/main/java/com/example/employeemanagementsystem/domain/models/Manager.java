@@ -1,6 +1,5 @@
 package com.example.employeemanagementsystem.domain.models;
 
-import com.example.employeemanagementsystem.domain.models.Employee;
 import java.util.ArrayList;
 import java.util.List;
 

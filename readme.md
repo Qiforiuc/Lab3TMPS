@@ -60,12 +60,14 @@ to reduce memory usage by sharing common data between objects.
 ### Result after execution
 ![img_7.png](img_7.png)
 
+### Conclusion
 The Employee Management System project is an example of how various 
 design patterns can be used to create a robust, scalable, 
-and maintainable software application for managing employees in a company. 
-The project demonstrates the use of the Composite pattern for creating 
-employee hierarchies, the Decorator pattern for adding additional functionality 
-to employee objects, the Facade pattern for providing a simplified interface 
-to the system, and the Flyweight pattern for reducing memory usage by sharing 
-common data between objects. These patterns help to improve the overall design 
-of the system, making it more flexible, extensible, and easier to maintain.
+and maintainable software application for managing employees in a 
+company. The project demonstrates the use of the Composite pattern for
+creating employee hierarchies, the Decorator pattern for adding
+additional functionality to employee objects, the Facade pattern for 
+providing a simplified interface to the system, and the Flyweight 
+pattern for reducing memory usage by sharing common data between 
+objects. These patterns help to improve the overall design of the 
+system, making it more flexible, extensible, and easier to maintain.

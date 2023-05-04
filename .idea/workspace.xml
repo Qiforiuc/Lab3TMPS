@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23db1edd-0598-4ce4-9478-84ff26c3c7f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/client/EmployeeManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/data/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/data/PayrollSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/data/PerformanceReviewSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/builders/ManagerBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/decorators/EmployeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/decorators/PerformanceReviewDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/factories/EmployeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/models/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/models/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/domain/models/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/utilities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/employeemanagementsystem/utilities/DepartmentCache.java" afterDir="false" />
-    </list>
+    <list default="true" id="23db1edd-0598-4ce4-9478-84ff26c3c7f9" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +49,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.employeemanagementsystem" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.employeemanagementsystem.client.Main" />
@@ -100,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683215516958</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1683217722945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683217722945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
